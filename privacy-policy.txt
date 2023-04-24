@@ -1,1 +1,5 @@
 I'm updating the privacy policy with new text!
+
+# Section header
+
+Here is a new section of the privacy policy.
